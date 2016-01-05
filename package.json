@@ -55,7 +55,7 @@
     "directory-search": "0.0.32",
     "express": "^4.13.3",
     "lodash": "^3.10.1",
-    "swagger-express-middleware": ">=1.0.0-alpha.12",
+    "swagger-express-middleware": "git+ssh://git@github.com:utvara/swagger-express-middleware",
     "swagger-methods": "^1.0.0"
   }
 }
